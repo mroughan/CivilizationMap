@@ -2,7 +2,7 @@
 
 A reboot of the Advanced Civilization Board Game Map
 
-[Civilization Map](civilisation.png)
+![Civilization Map](civilisation.png)
 
 N.B., this is nothing to do with the Computer Games or the board game
 based on the computer games.
