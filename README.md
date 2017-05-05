@@ -2,6 +2,8 @@
 
 A reboot of the Advanced Civilization Board Game Map
 
+[Civilization Map](civilisation.png)
+
 N.B., this is nothing to do with the Computer Games or the board game
 based on the computer games.
 
@@ -83,6 +85,9 @@ bit maps).
 
 If you want to add your remix to the repo, then we should be able to
 manage that as well.
+
+The PNG (bit map) isn't intended to be printed, its just a picture to
+illustrate the map for the repo.
 
 ### Final stuff
 
