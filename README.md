@@ -91,11 +91,11 @@ illustrate the map for the repo.
 
 ### Final stuff
 
-Obviously this is Avalon Hill content, and I am happy to remove it, if
-anyone cares. The only reason I think it is reasonable to put it up
-here is that as far as I know, its way out of print, and almost
-impossible to get hold of (except for other perhaps dubious quality
-reprinted boards).
+Obviously this is based on Avalon Hill content, and I am happy to
+remove it, if anyone cares. The only reason I think it is reasonable
+to put it up here is that as far as I know, its way out of print, and
+almost impossible to get hold of (except for other perhaps dubious
+quality reprinted boards).
 
 
 
