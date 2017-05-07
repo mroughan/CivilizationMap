@@ -48,7 +48,7 @@ without a city. It makes it easier to discuss the map. The names are
 attempts at historical names, but the province boundaries don't always
 match up nicely. There are also a mish-mash of names: many Roman, for
 obvious reasons, but some Greek, and a few others. I also added river
-names, both for new rivers, and for the major rivers used as boarders.
+names, both for new rivers, and for the major rivers used as borders.
 
 I had to move a couple of cities to make them match anything I could
 find (Gades for instance).
