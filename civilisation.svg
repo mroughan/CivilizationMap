@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="layer7"
      inkscape:document-units="px"
-     inkscape:cy="2277.6636"
-     inkscape:cx="3105.0295"
-     inkscape:zoom="0.5777613"
+     inkscape:cy="1988.8547"
+     inkscape:cx="995.29051"
+     inkscape:zoom="0.28888065"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -22768,7 +22768,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -24821,9 +24821,10 @@
        sodipodi:nodetypes="cccccccccccccc" />
     <path
        style="display:inline;opacity:1;fill:#6cd91c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2541.9746,1247.6445 -238.0625,59.4942 -20.2363,92.7519 42.7422,22.3321 200.2461,-31.752 66.6933,-89.8965 -51.3828,-52.9297 z m -3.3594,14.1094 38.9746,39.8906 -57.8496,77.8145 -190.6367,30.8418 -32.0156,-17.3555 16.1269,-75.9844 225.4004,-55.207 z"
+       d="m 2542.2991,1247.1036 -239.1442,59.6024 -19.8036,93.5091 43.0667,22.4403 200.4625,-31.752 67.3423,-90.4374 z m -3.6839,14.6503 38.9746,39.8906 -57.8496,77.8145 -190.6367,30.8418 -32.0156,-17.3555 16.1269,-75.9844 z"
        id="path58436"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
     <path
        style="display:inline;opacity:1;fill:url(#Assyria);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3139.8357,143.89942 554.1323,0 3.1857,4.97988 3.8509,4.27097 0.4901,2.6606 0.3501,5.07615 -0.3151,4.97113 0.5952,1.08525 -12.6729,0 -537.3812,0 z"
@@ -25866,7 +25867,7 @@
     </g>
     <g
        id="g56401"
-       transform="translate(1265.0714,1578.2278)">
+       transform="translate(1265.0714,1576.2278)">
       <circle
          style="display:inline;opacity:1;fill:#fff800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle56403"
@@ -25887,7 +25888,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'.Helvetica LT MM';-inkscape-font-specification:'.Helvetica LT MM, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">1</tspan></text>
     </g>
     <g
-       transform="translate(939.56757,1578.2278)"
+       transform="translate(939.56757,1576.2278)"
        id="g56409">
       <circle
          r="14.843368"
@@ -25931,7 +25932,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'.Helvetica LT MM';-inkscape-font-specification:'.Helvetica LT MM, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">1</tspan></text>
     </g>
     <g
-       transform="translate(1879.9393,1578.2278)"
+       transform="translate(1879.9393,1576.2278)"
        id="g56425">
       <circle
          r="14.843368"
@@ -25954,7 +25955,7 @@
     </g>
     <g
        id="g56433"
-       transform="translate(2219.7302,1578.2278)">
+       transform="translate(2219.7302,1576.2278)">
       <circle
          style="display:inline;opacity:1;fill:#fff800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle56435"
@@ -26450,7 +26451,7 @@
     </g>
     <g
        id="g56607"
-       transform="translate(2127.0872,939.0152)">
+       transform="translate(2127.0872,937.0152)">
       <circle
          r="14.843368"
          cy="1114.6656"
@@ -26515,7 +26516,7 @@
            sodipodi:role="line">3</tspan></text>
     </g>
     <g
-       transform="translate(2313.9284,939.0152)"
+       transform="translate(2313.9284,937.0152)"
        id="g56631">
       <circle
          style="display:inline;opacity:1;fill:#f58e03;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -26585,7 +26586,7 @@
        id="rect56649"
        style="opacity:1;fill:#040018;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="translate(3083.7561,1578.2278)"
+       transform="translate(3083.7561,1576.2278)"
        id="g56651">
       <circle
          r="14.843368"
@@ -28590,7 +28591,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'.Helvetica LT MM';-inkscape-font-specification:'.Helvetica LT MM, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">4</tspan></text>
     </g>
     <g
-       transform="translate(1440.1985,1276.0705)"
+       transform="translate(1440.1985,1274.0705)"
        id="g57372">
       <circle
          style="display:inline;opacity:1;fill:#ef3600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
