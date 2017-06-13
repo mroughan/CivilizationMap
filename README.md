@@ -89,6 +89,24 @@ manage that as well.
 The PNG (bit map) isn't intended to be printed, its just a picture to
 illustrate the map for the repo.
 
+### DIY Example
+
+OK, here's the final version:
+![Civilization Map](example_thumb.jpg)
+
+Details:
+
++ It was printed out on A0 paper, then cut to size, and then cut in
+half so that I would have board that was small enough to store.
++ I glued the two parts (with spray adhesive) to 2 sheets of
+3mm MDF. The MDF was cut to the actual size of the final map, so there
+was an overlap around the edges, with I glued down separately.
++ The optional part was putting 5mm aluminium channel (with an inner
+dado of almost exactly 3mm) around the edges. This gives the edge a
+bit more protection, but also, I cut the channel on one board about
+1cm longer than the edge, and the other 1cm shorter. This means that
+when assembled, the channel helps hold the two pieces together. 
+
 ### Final stuff
 
 Obviously this is based on Avalon Hill content, and I am happy to
