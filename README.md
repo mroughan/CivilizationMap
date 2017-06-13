@@ -104,9 +104,11 @@ pieces of the map using a jigsaw.
 
 + I glued the two map sheet halves to the MDF using spray
 adhesive. For hints on how to get this right see
-https://www.youtube.com/watch?v=v3J8yph1wX8.  Note that there was
-deliberately a 2cm overlap of the edge, which was folded over, and
-glued down separately.
+https://www.youtube.com/watch?v=v3J8yph1wX8. Carefully align so that
+the place where they meet is just right.
+
++ Note that in the previous step there was deliberately a 2cm overlap
+of the edge, which was folded over, and glued down separately.
 
 + The optional part was putting 5mm aluminium channel (with an inner
 dado of almost exactly 3mm) around the edges. This gives the edge a
