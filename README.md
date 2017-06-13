@@ -93,7 +93,7 @@ illustrate the map for the repo.
 
 OK, here's the final version:
 
-![Civilization Map](example.png | 100)
+![Civilization Map](example.png | width=100)
 
 Details:
 
