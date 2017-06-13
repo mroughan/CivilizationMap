@@ -115,7 +115,6 @@ dado of almost exactly 3mm) around the edges. This gives the edge a
 bit more protection, but also, I cut the channel on one board about
 1cm longer than the edge, and the other 1cm shorter. This means that
 when assembled, the channel helps hold the two pieces together.
-
 The channels were mitred at the corners (which was a pain with a
 hacksaw -- I ended up sanding a filing a fair bit to get these just
 right). The channel is (lightly) glued on.
