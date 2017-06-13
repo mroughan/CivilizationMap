@@ -105,7 +105,8 @@ was an overlap around the edges, with I glued down separately.
 dado of almost exactly 3mm) around the edges. This gives the edge a
 bit more protection, but also, I cut the channel on one board about
 1cm longer than the edge, and the other 1cm shorter. This means that
-when assembled, the channel helps hold the two pieces together. 
+when assembled, the channel helps hold the two pieces together. The
+channel is (lightly) glued on.
 
 ### Final stuff
 
