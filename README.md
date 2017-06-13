@@ -92,7 +92,7 @@ illustrate the map for the repo.
 ### DIY Example
 
 OK, here's the final version:
-![Civilization Map](example_thumb.jpg)
+![Civilization Map](example_thumb.png)
 
 Details:
 
