@@ -92,8 +92,7 @@ illustrate the map for the repo.
 ### DIY Example
 
 OK, here's the final version:
-
-![Civilization Map](example.png | width=100)
+<img src="example.png" height="200" />
 
 Details:
 
